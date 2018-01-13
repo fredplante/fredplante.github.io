@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jobeet Rails : Adding assets"
+title:  "Jobeet Rails : Layout and assets"
 date:   2017-12-19 12:00:00 +0200
 ---
 
